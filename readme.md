@@ -20,7 +20,7 @@ Kindly raise an issue if you want to discuss any problem in detail. Also, add me
 <img src="https://github.com/akshaybahadur21/Emojinator/blob/master/RPS.gif">
 
 ### [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2)
-<img src="Emojinator_V2/emo_v2.gif">
+<img src="emo_v2.gif">
 
 ### Autopilot V1 (Udacity Dataset based on Udacity Simulator)
 <img src="https://github.com/akshaybahadur21/Autopilot/blob/master/final.gif">
