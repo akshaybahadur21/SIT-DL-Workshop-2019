@@ -8,6 +8,8 @@ You can install Conda for python which resolves all the dependencies for machine
 ### Issues
 Kindly raise an issue if you want to discuss any problem in detail. Also, add me @akshaybahadur21 so that I get notified.
 
+<img src="https://github.com/akshaybahadur21/SIT-DL-Workshop-2019/blob/master/image.jpg">
+
 ### Contributors
 
 ##### 1) [Akshay Bahadur](https://github.com/akshaybahadur21/)
